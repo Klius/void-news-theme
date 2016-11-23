@@ -11,7 +11,7 @@
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
-		<h2 class="entry-subtitle"><i><?php the_subtitle();?><i><h3>
+		<?php the_subtitle('<h2 class="entry-subtitle"><i>','<i><h2>');?>
 	</header><!-- .entry-header -->
 
 	<?php twentysixteen_excerpt(); ?>

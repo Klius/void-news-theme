@@ -1690,7 +1690,10 @@ blockquote:after,
 	margin-right: 7.6923%;
 	margin-left: 7.6923%;
 }
-
+.entry-subtitle{
+	margin-left: 2em;
+	margin-bottom: 1em;
+}
 .entry-title {
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 28px;
@@ -1699,10 +1702,7 @@ blockquote:after,
 	line-height: 1.25;
 	margin-bottom: 1em;
 }
-.entry-subtitle{
-	margin-left: 2em;
-	margin-bottom: 1em;
-}
+
 .entry-title a {
 	color: #1a1a1a;
 }
