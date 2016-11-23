@@ -1700,7 +1700,7 @@ blockquote:after,
 	margin-bottom: 1em;
 }
 .entry-subtitle{
-	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	margin-left: 2em;
 	margin-bottom: 1em;
 }
 .entry-title a {
