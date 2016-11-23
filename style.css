@@ -1699,7 +1699,10 @@ blockquote:after,
 	line-height: 1.25;
 	margin-bottom: 1em;
 }
-
+.entry-subtitle{
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	margin-bottom: 1em;
+}
 .entry-title a {
 	color: #1a1a1a;
 }
